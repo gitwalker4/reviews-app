@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reviews-app/static/css/main.31d6cfe0.css",
+    "main.js": "/reviews-app/static/js/main.31f963cf.js",
+    "index.html": "/reviews-app/index.html",
+    "main.31f963cf.js.map": "/reviews-app/static/js/main.31f963cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.31f963cf.js"
+  ]
+}
